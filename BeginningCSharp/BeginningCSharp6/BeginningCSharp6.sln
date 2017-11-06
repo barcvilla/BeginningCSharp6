@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter4", "Chapter4", "{55
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Using-boolean-operators", "Using-boolean-operators\Using-boolean-operators.csproj", "{65374D2B-18EC-4148-97BE-D6E6ACD3DDC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Using-if-Statement", "Using-if-Statement\Using-if-Statement.csproj", "{E33BEDB3-AE4A-4543-BFD0-6959E17C9817}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,11 +19,16 @@ Global
 		{65374D2B-18EC-4148-97BE-D6E6ACD3DDC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65374D2B-18EC-4148-97BE-D6E6ACD3DDC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65374D2B-18EC-4148-97BE-D6E6ACD3DDC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E33BEDB3-AE4A-4543-BFD0-6959E17C9817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E33BEDB3-AE4A-4543-BFD0-6959E17C9817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E33BEDB3-AE4A-4543-BFD0-6959E17C9817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E33BEDB3-AE4A-4543-BFD0-6959E17C9817}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{65374D2B-18EC-4148-97BE-D6E6ACD3DDC9} = {55B03C97-79B9-4F10-9F2D-F50C4A21FA29}
+		{E33BEDB3-AE4A-4543-BFD0-6959E17C9817} = {55B03C97-79B9-4F10-9F2D-F50C4A21FA29}
 	EndGlobalSection
 EndGlobal
