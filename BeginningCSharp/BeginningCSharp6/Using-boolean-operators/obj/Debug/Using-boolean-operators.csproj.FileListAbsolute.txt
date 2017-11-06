@@ -1,0 +1,6 @@
+C:\Users\barcvilla\Documents\Visual Studio 2015\Projects\BeginningCSharp\BeginningCSharp6\Using-boolean-operators\bin\Debug\Using-boolean-operators.exe.config
+C:\Users\barcvilla\Documents\Visual Studio 2015\Projects\BeginningCSharp\BeginningCSharp6\Using-boolean-operators\bin\Debug\Using-boolean-operators.exe
+C:\Users\barcvilla\Documents\Visual Studio 2015\Projects\BeginningCSharp\BeginningCSharp6\Using-boolean-operators\bin\Debug\Using-boolean-operators.pdb
+C:\Users\barcvilla\Documents\Visual Studio 2015\Projects\BeginningCSharp\BeginningCSharp6\Using-boolean-operators\obj\Debug\Using-boolean-operators.csprojResolveAssemblyReference.cache
+C:\Users\barcvilla\Documents\Visual Studio 2015\Projects\BeginningCSharp\BeginningCSharp6\Using-boolean-operators\obj\Debug\Using-boolean-operators.exe
+C:\Users\barcvilla\Documents\Visual Studio 2015\Projects\BeginningCSharp\BeginningCSharp6\Using-boolean-operators\obj\Debug\Using-boolean-operators.pdb
